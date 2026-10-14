@@ -1,0 +1,2 @@
+D:\lab 6 lập trình wed thực hành\25dh110017-Mystore\25dh110017-Mystore\obj\Debug\25dh110017-Mystore.csproj.AssemblyReference.cache
+D:\lab 6 lập trình wed thực hành\25dh110017-Mystore\25dh110017-Mystore\obj\Debug\25dh110017-Mystore.csproj.CoreCompileInputs.cache

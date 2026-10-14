@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lab 6 l\u1EADp tr\u00ECnh wed th\u1EF1c h\u00E0nh\\25dh110017-Mystore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A14BB382-1CFB-4715-90FA-02386308D652}|25dh110017-Mystore\\25dh110017-Mystore.csproj|d:\\lab 6 l\u1EADp tr\u00ECnh wed th\u1EF1c h\u00E0nh\\25dh110017-mystore\\25dh110017-mystore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A14BB382-1CFB-4715-90FA-02386308D652}|25dh110017-Mystore\\25dh110017-Mystore.csproj|solutionrelative:25dh110017-mystore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14BB382-1CFB-4715-90FA-02386308D652}|25dh110017-Mystore\\25dh110017-Mystore.csproj|d:\\lab 6 l\u1EADp tr\u00ECnh wed th\u1EF1c h\u00E0nh\\25dh110017-mystore\\25dh110017-mystore\\models\\mystoremodel1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A14BB382-1CFB-4715-90FA-02386308D652}|25dh110017-Mystore\\25dh110017-Mystore.csproj|solutionrelative:25dh110017-mystore\\models\\mystoremodel1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14BB382-1CFB-4715-90FA-02386308D652}|25dh110017-Mystore\\25dh110017-Mystore.csproj|d:\\lab 6 l\u1EADp tr\u00ECnh wed th\u1EF1c h\u00E0nh\\25dh110017-mystore\\25dh110017-mystore\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A14BB382-1CFB-4715-90FA-02386308D652}|25dh110017-Mystore\\25dh110017-Mystore.csproj|solutionrelative:25dh110017-mystore\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A14BB382-1CFB-4715-90FA-02386308D652}|25dh110017-Mystore\\25dh110017-Mystore.csproj|d:\\lab 6 l\u1EADp tr\u00ECnh wed th\u1EF1c h\u00E0nh\\25dh110017-mystore\\25dh110017-mystore\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A14BB382-1CFB-4715-90FA-02386308D652}|25dh110017-Mystore\\25dh110017-Mystore.csproj|solutionrelative:25dh110017-mystore\\areas\\admin\\adminarearegistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\lab 6 l\u1EADp tr\u00ECnh wed th\u1EF1c h\u00E0nh\\25dh110017-Mystore\\25dh110017-Mystore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "25dh110017-Mystore\\Models\\Product.cs",
+              "ToolTip": "D:\\lab 6 l\u1EADp tr\u00ECnh wed th\u1EF1c h\u00E0nh\\25dh110017-Mystore\\25dh110017-Mystore\\Models\\Product.cs",
+              "RelativeToolTip": "25dh110017-Mystore\\Models\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T13:23:42.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\lab 6 l\u1EADp tr\u00ECnh wed th\u1EF1c h\u00E0nh\\25dh110017-Mystore\\25dh110017-Mystore\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "25dh110017-Mystore\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\lab 6 l\u1EADp tr\u00ECnh wed th\u1EF1c h\u00E0nh\\25dh110017-Mystore\\25dh110017-Mystore\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "25dh110017-Mystore\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-14T13:03:46.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminAreaRegistration.cs",
+              "DocumentMoniker": "D:\\lab 6 l\u1EADp tr\u00ECnh wed th\u1EF1c h\u00E0nh\\25dh110017-Mystore\\25dh110017-Mystore\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeDocumentMoniker": "25dh110017-Mystore\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ToolTip": "D:\\lab 6 l\u1EADp tr\u00ECnh wed th\u1EF1c h\u00E0nh\\25dh110017-Mystore\\25dh110017-Mystore\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "RelativeToolTip": "25dh110017-Mystore\\Areas\\Admin\\AdminAreaRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:48:10.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyStoreModel1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\lab 6 l\u1EADp tr\u00ECnh wed th\u1EF1c h\u00E0nh\\25dh110017-Mystore\\25dh110017-Mystore\\Models\\MyStoreModel1.edmx",
+              "RelativeDocumentMoniker": "25dh110017-Mystore\\Models\\MyStoreModel1.edmx",
+              "ToolTip": "D:\\lab 6 l\u1EADp tr\u00ECnh wed th\u1EF1c h\u00E0nh\\25dh110017-Mystore\\25dh110017-Mystore\\Models\\MyStoreModel1.edmx [Diagram1]",
+              "RelativeToolTip": "25dh110017-Mystore\\Models\\MyStoreModel1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-10-14T12:41:57.591Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
